@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authvecrypt",
+        "uuid": 4830216,
+        "checksum": "oxyjkr"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
